@@ -1,0 +1,9 @@
+.fixed-top {box-shadow: #777 1px 1px 8px;}
+.breakdownData thead th{vertical-align: middle;text-align: center; background-color: #0F849B;padding:4px 6px;border:#fff solid 2px;color:#ffffff;font-weight: 400;font-size: 14px}
+.breakdownData tbody td{vertical-align: middle;text-align: center;padding:2px 4px;border:#fff solid 2px;font-weight: 400;font-size: 13px}
+.breakdownData tbody tr td:nth-child(even){color:#aaa}
+.breakdownData tbody td:first-child{vertical-align: middle;text-align: left;padding:4px 6px;border:#fff solid 2px;font-weight: 400;font-size: 13px;background-color: #0F849B;color:#ffffff;text-transform: uppercase;white-space: nowrap}
+.breakdownData tbody td.bg-white{color:#000}
+.breakdownData  tbody td.inner{background-color: #fff;color:#000;padding-left:10px;font-size: 13px;font-weight: 600;text-transform: capitalize}
+.breakdownData  tbody tr td .borderTB {border-top:1px solid #dee2e6!important;border-bottom:1px solid #dee2e6!important}     .graphData .btn{border-radius: 20px;line-height: 1.3;text-transform: uppercase}
+.graphData .btn-light{color:#17a2b8;}
